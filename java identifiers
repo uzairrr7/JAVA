@@ -1,0 +1,5 @@
+int age;           // age is a valid identifier
+double totalSum;   // totalSum is a valid identifier
+String _name;      // _name is valid (starts with underscore)
+int $value;        // $value is valid (dollar sign)
+int score1;        // score1 is valid (digit after first character)
